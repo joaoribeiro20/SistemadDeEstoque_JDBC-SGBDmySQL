@@ -100,13 +100,9 @@ public class Adicionar {
 }
 
 
-/*valor dentro da casa de 2 digitos (1,2, 9,4)
+/*valor dentro da casa de 2 digitos (1,29, 9,99)
  * codigo do prduto ate 9 digitos, podenso repetir quanatas vezes quiser 
- * nome podendo conter caracteres especias como  - 
- * 
- * 
- * 
- * 
+ * nome podendo conter caracteres especias como  - = + 
  * 
  * 
  * 
